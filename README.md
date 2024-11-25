@@ -12,6 +12,8 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆Awards </h2>
     <p><span style="color: gray;">2024.10</span>
     <b>삼성 청년 SW아카데미 특화프로젝트 우수상</b></p>
+    <p><span style="color: gray;">2024.5</span>
+    <b>삼성 청년 SW아카데미 성적 우수상</b></p>
 </div>
 <br/>
 <div align="center">
@@ -19,7 +21,7 @@
     <p>
         <span style="color: gray;">2024.10 ~ 2024.11</span> 
         <b>
-            <a href="https://github.com/Plober-Plog" style="text-decoration: none; color: #0000ee;">
+            <a href="https://github.com/oodongdan" style="text-decoration: none; color: #0000ee;">
                 우리동네단골</a>
         </b> 
         (편의점/슈퍼 배달/픽업 고객 대상 재구매 상품 추천 앱)
@@ -27,7 +29,7 @@
     <p>
         <span style="color: gray;">2024.08 ~ 2024.10</span> 
         <b>
-            <a href="https://github.com/Plober-Plog" target="_blank" style="text-decoration: none; color: #0000ee;">
+            <a href="https://github.com/readygreen" target="_blank" style="text-decoration: none; color: #0000ee;">
                 언제그린</a>
         </b> 
         (보행자를 위한 신호등 잔여시간 제공 서비스)
@@ -35,7 +37,7 @@
     <p>
         <span style="color: gray;">2024.07 ~ 2024.08</span> 
         <b>
-            <a href="https://github.com/Plober-Plog" target="_blank" style="text-decoration: none; color: #0000ee;">
+            <a href="https://github.com/Plober-Plog/Plog" target="_blank" style="text-decoration: none; color: #0000ee;">
                 PLOG</a>
         </b> 
         (식물을 키우는 사람들을 위한 SNS 서비스)
