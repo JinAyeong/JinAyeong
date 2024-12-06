@@ -99,6 +99,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
     <div>
         <a href="https://solved.ac/ay8160">
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ay8160">
           <img src="http://mazassumnida.wtf/api/generate_badge?boj=ay8160" alt="Solved.ac 프로필">
         </a>
         <br/>
