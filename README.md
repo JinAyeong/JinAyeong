@@ -100,7 +100,6 @@
     <div>
         <a href="https://solved.ac/ay8160">
           <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ay8160">
-          <img src="http://mazassumnida.wtf/api/generate_badge?boj=ay8160" alt="Solved.ac 프로필">
         </a>
         <br/>
         <img src="https://github-readme-stats.vercel.app/api?username=JinAyeong&bg_color=60,ccfcff,85b6ff&title_color=ffffff&text_color=ffffff">
