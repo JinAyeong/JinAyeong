@@ -106,6 +106,7 @@
         <a href="https://solved.ac/ay8160">
           <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ay8160">
         </a>
+        <img src="http://mazandi.herokuapp.com/api?handle={ay8160}&theme=cold"/>
         <br/>
         <img src="https://github-readme-stats.vercel.app/api?username=JinAyeong&bg_color=60,ccfcff,85b6ff&title_color=ffffff&text_color=ffffff">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinAyeong&layout=compact&bg_color=60,ccfcff,85b6ff&title_color=ffffff&text_color=ffffff">
