@@ -1,6 +1,6 @@
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ade0ff,100:d1d6ff&height=180&text=Hello,%20I'm%20ayeong&animation=fadeIn&fontColor=ffffff&fontSize=50" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=D4F4FF&text=Welcome%20to%20AYEONG's%20Github%20👋%20💙&fontSize=32&height=120" />
+</p>
 <br/>
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓Experiences </h2>
@@ -110,7 +110,8 @@
         </a>
         <img src="http://mazandi.herokuapp.com/api?handle=ay8160&theme=cold"/>
         <br/>
-        <img src="https://github-readme-stats.vercel.app/api?username=JinAyeong&bg_color=60,ccfcff,85b6ff&title_color=ffffff&text_color=ffffff">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinAyeong&layout=compact&bg_color=60,ccfcff,85b6ff&title_color=ffffff&text_color=ffffff">
+        <img src="https://github-readme-stats.vercel.app/api?username=JinAyeong&bg_color=ffffff&title_color=000000&text_color=959595">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinAyeong&layout=compact&bg_color=ffffff&title_color=000000&text_color=959595">
     </div>
 </div>
+
